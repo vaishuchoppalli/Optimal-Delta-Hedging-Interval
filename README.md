@@ -1,1 +1,3 @@
 # Optimal-Delta-Hedging-Interval
+
+- The project involves understanding of structured notes, which are products issued by Wealth and Asset management firm as an investment instrument for High Net Worth and Ultra High Net Worth individuals. These products form a part of their portfolios as a means of diversification and also to earn returns that beat inflation in times of muted equity returns. These products are a very useful tool for portfolio managers as well. Portfolio managers can customize these products as per the clients’ risk appetite and their return requirements thus giving them more control over the portfolio.
